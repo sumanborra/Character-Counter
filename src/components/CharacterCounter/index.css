@@ -1,0 +1,75 @@
+.character-counter-background-container {
+  height: 100vh;
+  display: flex;
+}
+.input-list-container {
+  background-color: #ffc533;
+  padding: 30px;
+  height: 100vh;
+  width: 50vw;
+}
+.heading-text-count-the-characters {
+  font-family: 'Roboto';
+  font-size: 42px;
+  font-weight: 600;
+  color: #0f172a;
+}
+.text-container {
+  height: 30vh;
+  padding: 30px;
+  background-color: #ffbf1f;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.image-no-view {
+  height: 400px;
+}
+.input-main-container {
+  background-color: #0f172a;
+  padding: 30px;
+  height: 100vh;
+  width: 50vw;
+  text-align: center;
+}
+.heading-character-counter-text {
+  font-family: 'Roboto';
+  font-size: 42px;
+  font-weight: 600;
+  color: #ffc533;
+}
+.input-element {
+  height: 40px;
+  width: 350px;
+  padding: 10px;
+  font-size: 18px;
+  color: #272c47;
+  outline: none;
+}
+.buttn {
+  background-color: #ffbf1f;
+  font-family: 'Roboto';
+  font-size: 18px;
+  padding: 8px;
+  color: #1e293b;
+  border: none;
+  border-radius: 12px;
+  height: 40px;
+  width: 100px;
+  margin-left: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.list-container {
+  padding: 0px;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  color: #0f172a;
+  list-style-type: none;
+}
+.span-text-style {
+  font-weight: 800;
+}
